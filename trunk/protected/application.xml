@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application id="blog" Mode="Debug">
+    <paths>
+        <using namespace="System.Web.*" />
+		<using namespace="System.Web.UI.*" />
+    </paths>
+</application>
