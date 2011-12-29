@@ -1,0 +1,13 @@
+<%@ MasterClass="Application.layouts.main_Layout" Title="M-Blog | Pagina Iniziale" Theme="default" %>
+<com:TContent ID="page">
+	<p class="title">Titolo post</p>
+	<p class="subtitle">Descrizione del post</p>
+	<p>Testo del post.<a href="#">Link.</a></p>
+	<label>Label</label><input type="text" /><button>Button</button>
+	<br />
+	<select>
+		<option>LOL
+		<option>ri-LOL
+		<option>ahah
+	</select>
+</com:TContent>
