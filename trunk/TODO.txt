@@ -1,0 +1,5 @@
+Version 1:
+	-Implementare un sistema di login per accedere all'amministrazione
+	-Implementare la lista dei post in pagina iniziale
+	-Implementare Modifica, Eliminazione e Creazione dei post
+	
